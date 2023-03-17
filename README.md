@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaqib-Ahmad
-- 👀 I’m interested in web technologies
-- 🌱 I’m currently learning node.js
+- 👀 I’m interested in web technologies and management
+- 🌱 I’m currently learning C# and asp.net
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Email :aaqibsana@gmail.com
 
